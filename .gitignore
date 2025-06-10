@@ -9,9 +9,10 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Model files
+# Model files and folders
 *.h5
 model weights/
+chest_xray/
 
 # System files
 .DS_Store
