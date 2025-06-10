@@ -1,0 +1,7 @@
+Flask
+flask_pymongo
+werkzeug
+tensorflow
+pillow
+python-dotenv
+fpdf
