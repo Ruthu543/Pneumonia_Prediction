@@ -1,0 +1,10 @@
+Flask
+flask_pymongo
+Werkzeug
+tensorflow
+keras
+Pillow
+python-dotenv
+fpdf
+numpy
+opencv-python
