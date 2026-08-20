@@ -2,8 +2,6 @@
 
 An end-to-end Deep Learning image classification project that analyzes chest X-ray images and predicts whether an image belongs to the Normal or Pneumonia class. The project covers the complete machine learning lifecycle—from data preprocessing and exploratory analysis to transfer learning, model evaluation, and Flask-based deployment.
 
-⚠️ Medical Disclaimer: This project is developed strictly for educational and research purposes. It is not a clinically validated diagnostic system and should not be used to make medical decisions. Any medical diagnosis must be performed by qualified healthcare professionals.
-
 📌 Project Overview
 
 Pneumonia is a respiratory infection that can cause visible abnormalities in chest X-ray images. Manual examination of large volumes of medical images can be time-consuming, motivating the development of computer-aided image classification systems.
